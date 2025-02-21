@@ -1,5 +1,5 @@
 
-(*use_dsp ="yes"*)
+//(*use_dsp ="yes"*)
 
 module fir #(
     parameter DATA_IN_WIDTH = 16,
